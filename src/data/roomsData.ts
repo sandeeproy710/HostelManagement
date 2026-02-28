@@ -1,4 +1,4 @@
-import { rooms } from "../model/room"
+import { rooms } from "../model/room.js"
 export const roomsAvailabity: rooms[] = [
     { roomNumber: 101, isOccupied: false },
     { roomNumber: 102, isOccupied: false },
